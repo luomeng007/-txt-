@@ -1,1 +1,14 @@
-https://brilliant.org/daily-problems/
+思维，计算机技能：https://brilliant.org/daily-problems/
+语言类学习网站： https://www.duolingo.cn/
+下载免费电子书的网站：http://libgen.rs/
+python人工智能电子书下载：https://www.ai8py.com/python-ai-book.html
+python 下载乌普萨拉大学的图像处理课件：https://blog.csdn.net/qq_15642411/article/details/80267420
+How to Write a Spelling Corrector：http://norvig.com/spell-correct.html
+黑客入门nmap:https://crayon-xin.github.io/2018/08/12/nmap%E8%B6%85%E8%AF%A6%E7%BB%86%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/
+算法演示网站：https://visualgo.net/en
+延寿十年的健康生活习惯：https://books.google.de/books?id=p1RqDwAAQBAJ&pg=PA24&lpg=PA24&dq=%E5%88%B7%E7%89%99%E4%B8%80%E5%AE%9A%E8%A6%81%E4%B8%89%E5%88%86%E9%92%9F%E5%90%97&source=bl&ots=MqtEXtoje4&sig=ACfU3U0--yREGeSUQhAB_MlZmCdcT-fjwA&hl=en&sa=X&ved=2ahUKEwij-9Wr_JrpAhXwsaQKHWMeCggQ6AEwCXoECAQQAQ#v=onepage&q=%E5%88%B7%E7%89%99%E4%B8%80%E5%AE%9A%E8%A6%81%E4%B8%89%E5%88%86%E9%92%9F%E5%90%97&f=false
+python学习网站：https://www.datacamp.com/?utm_source=adwords_ppc&utm_campaignid=805200711&utm_adgroupid=39268379982&utm_device=c&utm_keyword=datacamp&utm_matchtype=e&utm_network=g&utm_adpostion=&utm_creative=340731356548&utm_targetid=aud-517318242147:kwd-297372810188&utm_loc_interest_ms=&utm_loc_physical_ms=9042960&gclid=CjwKCAjwtqj2BRBYEiwAqfzur96AwtPw7M13zfyKcd2rIe74rCkO6l1eUrO_MaW_s8W8FPlhcSeyaRoC2bUQAvD_BwE
+json在线解析与格式验证：https://www.json.cn/
+我要自学网：https://www.51zxw.net/NewAn/WebSearch/Course
+https://shop.mitte26.com/：熊猫超市
+ASCII码表：https://www.litefeel.com/tools/ascii.php
